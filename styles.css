@@ -2,7 +2,7 @@ html, body {
 	height: 98%;
 	margin: .5%;
 	background-color: white;
-	background-image: url("w1.jpg");
+	/*background-image: url("images/banner.jpg");*/
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
